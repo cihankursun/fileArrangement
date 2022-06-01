@@ -5,6 +5,7 @@ It can extracts files by extensions.
 git clone https://github.com/cihankursun/fileArrangement.git
 cd fileArrangement
 chmod +x run.py
+pip3 install -r requirements.txt
 python run.py
 ```
 ## Video

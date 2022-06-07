@@ -8,7 +8,7 @@ chmod +x run.py
 pip3 install -r requirements.txt
 python run.py
 ```
-## Video
+## Demonstration
 This script tested on Windows 10.
 
 https://youtu.be/lmZDDCtWSxs
